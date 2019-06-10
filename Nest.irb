@@ -1,3 +1,4 @@
+put 
 nested_students = [
   ["Mike", "Grade 10", "A average"],
   ["Tim", "Grade 10", "C average"],
